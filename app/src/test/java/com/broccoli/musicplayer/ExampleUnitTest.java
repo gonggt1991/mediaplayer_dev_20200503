@@ -1,4 +1,4 @@
-package com.brocoli.musicplayer;
+package com.broccoli.musicplayer;
 
 import org.junit.Test;
 
