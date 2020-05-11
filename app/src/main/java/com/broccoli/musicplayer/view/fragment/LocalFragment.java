@@ -1,4 +1,4 @@
-package com.broccoli.musicplayer.fragment;
+package com.broccoli.musicplayer.view.fragment;
 
 import androidx.lifecycle.ViewModelProviders;
 

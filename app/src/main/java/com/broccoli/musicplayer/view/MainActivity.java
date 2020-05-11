@@ -1,10 +1,12 @@
-package com.broccoli.musicplayer;
+package com.broccoli.musicplayer.view;
 
 import android.app.Activity;
 import android.os.Bundle;
 
 import androidx.databinding.DataBindingUtil;
 
+import com.broccoli.musicplayer.MainViewBindingClass;
+import com.broccoli.musicplayer.R;
 import com.broccoli.musicplayer.viewmodel.ControlPanelViewModel;
 
 public class MainActivity extends Activity {
